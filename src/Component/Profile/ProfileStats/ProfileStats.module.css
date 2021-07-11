@@ -1,0 +1,25 @@
+.statsList{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-column-gap: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.item{
+    text-align: center;
+    color: #37474f;
+    border: 2px solid #546e7a;
+    border-radius: 5px;
+    padding: 10px;
+    text-align: center;
+    box-shadow:         7px 7px 5px 0px rgba(50, 50, 50, 0.75);
+}
+.itemHeader{
+    text-transform: capitalize;
+    font-size: 1rem;
+}
+.itemDescription{
+    font-size: 1.4rem;
+    color: #37474f;
+}
+

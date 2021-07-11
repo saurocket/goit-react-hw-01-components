@@ -1,0 +1,20 @@
+.avatar{
+    margin-left: auto;
+    margin-right: auto;
+    width: 100px;
+    height: 100px;
+    border: 2px solid #fff;
+    border-radius: 50%;
+    overflow: hidden;
+}
+.avatarTag{
+    font-size: 1rem;
+    text-align: center;
+    color:#546e7a;
+    padding: 10px 0;
+}
+.avatarLocation{
+    font-size: 1rem;
+    text-align: center;
+    color:#546e7a;
+}
